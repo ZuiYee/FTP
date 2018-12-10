@@ -1,0 +1,52 @@
+INFO:pyftpdlib:>>> starting FTP server on 172.21.11.129:21, pid=9156 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2000->2199
+INFO:pyftpdlib:172.21.11.129:63852-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63852-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:172.21.11.129:63852-[anonymous] CWD G:\steam 250
+INFO:pyftpdlib:172.21.11.129:63852-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:63854-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63854-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:172.21.11.129:63854-[anonymous] CWD G:\steam 250
+INFO:pyftpdlib:172.21.11.129:63854-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:63856-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63856-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:172.21.11.129:63856-[anonymous] CWD G:\steam\logs 250
+INFO:pyftpdlib:172.21.11.129:63856-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:63858-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63858-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:172.21.11.129:63858-[anonymous] CWD G:\steam 250
+INFO:pyftpdlib:172.21.11.129:63858-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 172.21.11.129:21, pid=13184 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2000->2199
+INFO:pyftpdlib:172.21.11.129:63864-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63864-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:172.21.11.129:63864-[anonymous] CWD G:\steam 250
+INFO:pyftpdlib:172.21.11.129:63864-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:63871-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63871-[user] USER 'user' logged in.
+INFO:pyftpdlib:172.21.11.129:63871-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:63881-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:63881-[user] USER 'user' logged in.
+INFO:pyftpdlib:172.21.11.129:63881-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:64168-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:64168-[user] USER 'user' logged in.
+INFO:pyftpdlib:172.21.11.129:64168-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:64170-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:64170-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:172.21.11.129:64170-[anonymous] CWD G:\steam 250
+INFO:pyftpdlib:172.21.11.129:64170-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:64208-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:64208-[user] USER 'user' logged in.
+INFO:pyftpdlib:172.21.11.129:64208-[user] RETR G:\steam\text.txt completed=1 bytes=0 seconds=0.0
+INFO:pyftpdlib:172.21.11.129:64208-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:172.21.11.129:64280-[] FTP session opened (connect)
+INFO:pyftpdlib:172.21.11.129:64280-[user] USER 'user' logged in.
+INFO:pyftpdlib:172.21.11.129:64280-[user] RETR G:\steam\text.txt completed=1 bytes=11 seconds=0.0
+INFO:pyftpdlib:172.21.11.129:64280-[user] STOR G:\steam\text1.txt completed=1 bytes=0 seconds=0.016
+INFO:pyftpdlib:172.21.11.129:64280-[user] FTP session closed (disconnect).
